@@ -10,8 +10,8 @@ const standardProps = {
     name: "schemaInput",
     placeholder: "Enter JSON Schema",
     fontSize: 12,
-    minLines: 5,
-    maxLines: 5,
+    minLines: 8,
+    maxLines: 8,
     highlightActiveLine: true,
     setOptions: {
         enableBasicAutocompletion: false,
